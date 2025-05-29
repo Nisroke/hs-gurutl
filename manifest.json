@@ -1,0 +1,24 @@
+{
+  "manifest_version": 3,
+  "name": "HSGuru 카드 한글화",
+  "version": "1.0.1",
+  "description": "HSGuru 한글",
+  "permissions": [],
+  "host_permissions": ["https://www.hsguru.com/*"],
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "content_scripts": [
+    {
+      "matches": ["https://www.hsguru.com/*"],
+      "js": ["content.js"],
+      "run_at": "document_idle"
+    }
+  ],
+  "web_accessible_resources": [
+    {
+      "resources": ["cards_United.json"],
+      "matches": ["https://www.hsguru.com/*"]
+    }
+  ]
+}
