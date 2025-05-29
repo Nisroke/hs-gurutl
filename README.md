@@ -21,6 +21,7 @@ hsguru translate
 4. 값 선택
 
 <<사진>>
+
 ![image](https://github.com/user-attachments/assets/954ad444-b98b-4cc7-b8d7-ac6ce4ff4311)
 ![image](https://github.com/user-attachments/assets/6f4afbd1-e11d-4af7-bd6e-d856e5fb09a7)
 ![image](https://github.com/user-attachments/assets/ac5649e4-5a05-4d4c-9d44-5cf9e7259179)
@@ -29,7 +30,7 @@ hsguru translate
 
 ------------------------------------
 
-##사용법
+사용법
 
 1. 압축파일 다운로드
 2. 압축파일 해제
@@ -40,8 +41,9 @@ hsguru translate
 8. 압축 해제된 폴더 불러오기
 9. 하스구루 접속, 사용
 
+------------------------------------
 
-##유의사항
+유의사항
 1. 2025-04-30 업데이트 빌드 버전
 2. 카드 목록 자동 업데이트 X
 3. 확인되는 부분 공식 번역 기반으로 작성되었기에 블리자드 코리아에서 오역했다면 그대로 적용
@@ -50,15 +52,19 @@ hsguru translate
 6. 버그제보 수정 느릴수 있음.
 7. 포함, 제외카드 한글 검색 시 선택중인 건이 있으면 자동완성 항목 여러개 등장
 
+------------------------------------
 
 추가 개발 가능한 목록
 1. 카드 api 자동업데이트
 2. 키워드 검색
 
 
+------------------------------------
 
 <<화면>>
 ![image](https://github.com/user-attachments/assets/5da80868-c30a-4716-a192-2ab6d8351be2)
+
+------------------------------------
 
 
 기능
