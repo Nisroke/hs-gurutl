@@ -37,4 +37,9 @@ hsguru translate
 ![image](https://github.com/user-attachments/assets/5da80868-c30a-4716-a192-2ab6d8351be2)
 
 
-<<
+기능
+
+1. 번역
+![image](https://github.com/user-attachments/assets/862e405d-3b0b-45dc-bebf-f2061eb9bfa6)
+![image](https://github.com/user-attachments/assets/0d0c7388-fb50-4eed-adb1-2a017837ccaa)
+
