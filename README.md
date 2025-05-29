@@ -39,7 +39,17 @@ hsguru translate
 
 기능
 
-1. 번역
-![image](https://github.com/user-attachments/assets/862e405d-3b0b-45dc-bebf-f2061eb9bfa6)
+1. 덱 리스트 번역
+![image](https://github.com/user-attachments/assets/8f83a477-8bc2-43e8-8b0f-f38b451965e2)
 ![image](https://github.com/user-attachments/assets/0d0c7388-fb50-4eed-adb1-2a017837ccaa)
+
+2. 카드 사진 변경
+![image](https://github.com/user-attachments/assets/aa3a785a-d948-413e-8c37-c483074f65cb)
+
+3. 검색 한글 병행표기/한글 검색 추가
+![image](https://github.com/user-attachments/assets/0294d755-b9ab-4969-bec1-487ed9335964)
+
+4. 카드 목록 변경
+![image](https://github.com/user-attachments/assets/95cf8fae-2ae4-436b-96c2-69e23688daa1)
+
 
