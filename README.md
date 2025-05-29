@@ -90,7 +90,7 @@ https://hearthstone.blizzard.com/ko-kr/cards
 
 3. 카드 사진 변경
 
-![image](https://github.com/user-attachments/assets/aa3a785a-d948-413e-8c37-c483074f65cb)
+![image](https://github.com/user-attachments/assets/7982ed3a-2d51-453f-9da9-32318c09fdbf)
 ![image](https://github.com/user-attachments/assets/7e7c1c6c-0e8a-4c8d-ac92-fec296dcc148)
 
 5. 검색 한글 병행표기/한글 검색 추가
