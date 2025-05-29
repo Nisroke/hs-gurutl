@@ -5,6 +5,7 @@ hsguru translate
 
 크로미움 기반으로 만들어졌으며 확장앱에 대한 이해도가 낮기에 발생한 문제는 제보 부탁드립니다.
 
+
 ------------------------------------
 
 
@@ -60,6 +61,19 @@ hsguru translate
 
 
 ------------------------------------
+
+도움받은 글 목록
+
+https://github.com/dl0312/open-apis-korea
+
+https://hearthstoneapi.com/
+
+https://www.hsguru.com/
+
+https://hearthstone.blizzard.com/ko-kr/cards
+
+------------------------------------
+
 
 <<화면>>
 ![image](https://github.com/user-attachments/assets/5da80868-c30a-4716-a192-2ab6d8351be2)
